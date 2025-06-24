@@ -1,0 +1,58 @@
+[
+  {
+    
+    "title": "صحيح البخاري",
+    "author": "الإمام البخاري",
+    "cover_url": "https://cdn.pixabay.com/photo/2025/06/16/15/12/landscape-9663418_1280.jpg",
+    "download_url": "https://www.africau.edu/images/default/sample.pdf"
+  },
+  {
+     
+    "title": "صحيح مسلم",
+    "author": "الإمام مسلم",
+    "cover_url": "https://cdn.pixabay.com/photo/2015/11/19/21/14/glasses-1052023_1280.jpg",
+    "download_url": "https://github.com/ValiantCat/VCFlutter/raw/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf"
+  },
+  {
+   
+    "title": "رياض الصالحين",
+    "author": "الإمام النووي",
+    "cover_url": "https://cdn.pixabay.com/photo/2016/10/26/10/05/book-1771073_1280.jpg",
+    "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    
+    "title": "الأربعون النووية",
+    "author": "الإمام النووي",
+    "cover_url": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_1280.jpg",
+    "download_url": "https://www.africau.edu/images/default/sample.pdf"
+  },
+  {
+  
+    "title": "فتح الباري",
+    "author": "ابن حجر العسقلاني",
+    "cover_url": "https://cdn.pixabay.com/photo/2015/05/09/15/42/book-759873_1280.jpg",
+    "download_url": "https://github.com/ValiantCat/VCFlutter/raw/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf"
+  },
+  {
+    
+    "title": "بلوغ المرام",
+    "author": "ابن حجر العسقلاني",
+    "cover_url": "https://cdn.pixabay.com/photo/2019/11/04/10/15/book-4600757_1280.jpg",
+    "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+  },
+  {
+    
+    "title": "سيرة ابن هشام",
+    "author": "ابن هشام",
+    "cover_url": "https://cdn.pixabay.com/photo/2024/03/19/19/08/book-8643905_1280.jpg",
+    "download_url": "https://www.africau.edu/images/default/sample.pdf"
+  },
+  {
+   
+    "title": "تفسير ابن كثير",
+    "author": "ابن كثير",
+    "cover_url": "https://cdn.pixabay.com/photo/2016/10/25/15/55/book-1769228_1280.jpg",
+    "download_url": "https://github.com/ValiantCat/VCFlutter/raw/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf"
+  }
+]
