@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "صحيح البخاري",
+      "author": "الإمام البخاري",
+      "category": "الحديث",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/16/15/12/landscape-9663418_1280.jpg",
+      "pdfUrl": "https://www.africau.edu/images/default/sample.pdf",
+      "description": "أصح كتاب بعد كتاب الله تعالى، جمع فيه الإمام البخاري الأحاديث النبوية الصحيحة.",
+      "rating": 4.9,
+      "pages": 756,
+      "downloads": 12500
+    },
+    {
+      "id": "2",
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم",
+      "category": "الحديث",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/17/10/23/mountains-9663578_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "ثاني أصح الكتب بعد صحيح البخاري، جمع فيه الإمام مسلم الأحاديث الصحيحة.",
+      "rating": 4.8,
+      "pages": 720,
+      "downloads": 9800
+    },
+    {
+      "id": "3",
+      "title": "رياض الصالحين",
+      "author": "الإمام النووي",
+      "category": "أخلاق وآداب",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/18/08/32/forest-9663745_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "كتاب يجمع الأحاديث الصحيحة المروية عن النبي محمد صلى الله عليه وسلم في شعب الإيمان والإسلام.",
+      "rating": 4.7,
+      "pages": 600,
+      "downloads": 15200
+    },
+    {
+      "id": "4",
+      "title": "الأربعون النووية",
+      "author": "الإمام النووي",
+      "category": "أخلاق وآداب",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/19/14/45/beach-9663921_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "مجموعة من أربعين حديثًا نبويًا شريفًا جمعها الإمام النووي.",
+      "rating": 4.6,
+      "pages": 120,
+      "downloads": 23400
+    },
+    {
+      "id": "5",
+      "title": "فتح الباري",
+      "author": "ابن حجر العسقلاني",
+      "category": "شرح الحديث",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/20/09/18/mountain-9664102_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "أشهر شروح صحيح البخاري، ألفه الحافظ ابن حجر العسقلاني.",
+      "rating": 4.9,
+      "pages": 1500,
+      "downloads": 8700
+    },
+    {
+      "id": "6",
+      "title": "بلوغ المرام",
+      "author": "ابن حجر العسقلاني",
+      "category": "فقه",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/21/16/30/desert-9664288_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "كتاب في الأحاديث الفقهية، جمع فيه المؤلف الأحاديث التي يستدل بها الفقهاء.",
+      "rating": 4.7,
+      "pages": 480,
+      "downloads": 11200
+    },
+    {
+      "id": "7",
+      "title": "سيرة ابن هشام",
+      "author": "ابن هشام",
+      "category": "سيرة",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/22/11/45/sunset-9664479_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "أشهر كتاب في السيرة النبوية، اختصره ابن هشام من سيرة ابن إسحاق.",
+      "rating": 4.8,
+      "pages": 900,
+      "downloads": 14300
+    },
+    {
+      "id": "8",
+      "title": "تفسير ابن كثير",
+      "author": "ابن كثير",
+      "category": "تفسير",
+      "coverUrl": "https://cdn.pixabay.com/photo/2025/06/23/07/12/lake-9664665_1280.jpg",
+      "pdfUrl": "https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf",
+      "description": "أشهر كتب التفسير بالمأثور، اعتمد فيه المؤلف على التفسير بالقرآن والسنة.",
+      "rating": 4.9,
+      "pages": 2400,
+      "downloads": 18900
+    }
+  ],
+  "categories": [
+    {"id": "1", "name": "الحديث", "icon": "book"},
+    {"id": "2", "name": "التفسير", "icon": "book-open"},
+    {"id": "3", "name": "الفقه", "icon": "scale"},
+    {"id": "4", "name": "السيرة", "icon": "history"},
+    {"id": "5", "name": "الأخلاق", "icon": "heart"},
+    {"id": "6", "name": "العقيدة", "icon": "star"}
+  ],
+  "featured": ["1", "3", "8"]
+}
