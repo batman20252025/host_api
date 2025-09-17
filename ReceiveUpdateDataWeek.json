@@ -1,12 +1,14 @@
 [
   {
     "id": 1,
-    "title": "أقم الصلاة",
-    "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/اقم الصلاة.PNG"
+    "title": "عنوان الصورة",
+    "subtitle": "هذا هو الوصف الفرعي للصورة",
+    "cover_url":  "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/السيرة العلوية.PNG"
   },
-    {
+  {
     "id": 2,
-    "title": "السيرة العلوية",
-    "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/السيرة العلوية.PNG"
+    "title": "صورة أخرى",
+    "subtitle": "وصف فرعي آخر",
+    "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/اقم الصلاة.PNG"
   }
 ]
