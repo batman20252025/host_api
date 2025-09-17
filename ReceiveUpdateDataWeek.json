@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "title": "عنوان الصورة",
-    "subtitle": "هذا هو الوصف الفرعي للصورة",
-    "cover_url":  "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/السيرة العلوية.PNG"
+    "title": "الأسبوع الأول",
+    "subtitle": "الثقافة القرآانية",
+    "cover_url":  "https://drive.google.com/uc?export=download&id=1ycdCLlLHfdKBgaR-QxgtiCsQz6qb-kEn"
   },
   {
     "id": 2,
-    "title": "صورة أخرى",
-    "subtitle": "وصف فرعي آخر",
-    "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/اقم الصلاة.PNG"
+    "title": "الأسبوع الثاني",
+    "subtitle": "لاعذر للجميع امام الله",
+    "cover_url": "https://drive.google.com/uc?export=download&id=1xUP9Maj5clciBjLvMHwZGRX_T3fy2T30"
   }
 ]
