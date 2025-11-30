@@ -3,7 +3,7 @@
     "id": 1,
     "title": "أقم الصلاة",
     "author": "عبدالفتاح الكبسي",
-    "category_Name": "الفقه",
+    "category_Name": "الأحكام والشريعة",
      "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/اقم الصلاة.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/أقم الصلاة - الكبسي.pdf"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "أدعية مختارة لشهر رمضان المبارك",
     "author": "أدعية مختارة لشهر رمضان المبارك",
-      "category_Name": "الفقه",
+      "category_Name":"الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/أدعية_مختارة_لشهر_رمضان_المبارك_1466هـ_5.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/أدعية_مختارة_لشهر_رمضان_المبارك_1466هـ_5.pdf"
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "title": "كتاب الصيام",
     "author": "العلامة / عبدالرحمن شمس الدين",
-      "category_Name": "الفقه",
+      "category_Name": "الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/كتاب الصيام.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/كتاب الصيام.pdf"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "تفنيد الشبهات",
     "author": "د/أحمد الشامي",
-    "category_Name": "الفقه",
+    "category_Name": "الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/تفنيد الشبهات.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/تفنيد الشبهات.pdf"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "title": "تحرير الأفكار",
     "author": "العلامة / بدرالدين الحوثي",
-      "category_Name": "الفقه",
+      "category_Name": "الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/تحرير الأفكار.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/تحرير الأفكار.pdf"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "ثقافة الشهادة",
     "author": "يحيى قاسم أبوعواضة",
-      "category_Name": "الفقه",
+      "category_Name": "الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/ثقافة الشهادة A5.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/ثقافة الشهادة A5.pdf"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "title": "رحمة للعالمين",
     "author": "يحيى قاسم أبوعواضة",
-      "category_Name": "الفقه",
+      "category_Name": "الأحكام والشريعة",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/رحمة للعالمين.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/رحمة للعالمين.pdf"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "title": "المرأة بين تكريم القرآن واستغلال دعاة الحرية",
     "author": "عبدالرحمن حميدالدين",
-       "category_Name": "الفلسفة",
+       "category_Name": "كتيبات",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/المرأة_بين_تكريم_القرآن_واستغلال_دعاة_الحرية.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/المرأة_بين_تكريم_القرآن_واستغلال_دعاة_الحرية.pdf"
     },
@@ -123,7 +123,7 @@
     "id": 16,
     "title": "المرأة في الإسلام",
     "author": "يحيى قاسم أبوعواضة",  
-       "category_Name": "الفلسفة",
+       "category_Name": "كتيبات",
     "cover_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/المرأة في الإسلام للنشر.PNG",
     "pdf_url": "https://raw.githubusercontent.com/batman20252025/host_api/refs/heads/main/books/المرأة في الإسلام للنشر.pdf"
     },
