@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "في ظلال دعاء مكارم الأخلاق ـ الدرس الأول",
+    "name": "دروس من وحي عاشوراء",
     "title": "الأسبوع الأول",
-    "subtitle": "من 07 رجب إلى 19 رجب 1447هـ.",
-    "cover_url":  "https://drive.google.com/uc?export=download&id=156CGCos1IvO7YT_zZj3DuGMkVwT1MTAd",
-    "id_mlzm": 35
+    "subtitle": "من 21 رجب إلى 26 رجب 1447هـ.",
+    "cover_url":  "https://drive.google.com/uc?export=download&id=1Ly5UtVbw6AOUd2e48Ja2uazses14RXdv",
+    "id_mlzm": 66
   },
   {
-        "cover_url": "https://drive.google.com/uc?export=download&id=1SpCkLbLUP5NVeFrR0ZIMUnMc6HM3HXUI",
+        "cover_url": "https://drive.google.com/uc?export=download&id=16cQH4fi0b0722viNI20afpK9KcmomX_m",
         "id": 2,
-        "id_mlzm": 36,
-        "name": "في ظلال دعاء مكارم الأخلاق ـ الدرس الثاني",
-        "subtitle":  "من 07 رجب إلى 19 رجب 1447هـ.",
+        "id_mlzm": 0,
+        "name": "من هدي القران الكريم",
+        "subtitle":  "",
         "title": "لأسبوع الثاني"
   }
 ]
