@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "دروس من وحي عاشوراء",
+    "name": "آيات من سورة الواقعة",
     "title": "الأسبوع الأول",
-    "subtitle": "من 21 رجب إلى 26 رجب 1447هـ",
-    "cover_url":  "https://drive.google.com/uc?export=download&id=1Ly5UtVbw6AOUd2e48Ja2uazses14RXdv",
-    "id_mlzm": 66
+    "subtitle": "من 5 شعبان إلى 9 شعبان 1447هـ",
+    "cover_url":  "https://drive.google.com/uc?export=download&id=1-rREYCyPKpJCDqKpu1hviJgQor9Oafvz",
+    "id_mlzm": 45
   },
   {
-        "cover_url": "https://drive.google.com/uc?export=download&id=1k5ZIXYDdu7s0mAvUStUYzk2wrDLETUTq",
+        "cover_url": "https://drive.google.com/uc?export=download&id=11l8QQNlji45IdS3lu9jDaGNPAVkneZUN",
         "id": 2,
-        "id_mlzm": 23,
-        "name":  " معرفة الله - وعده ووعيده - الدرس الخامس عشر ", 
-     "subtitle":  " من 28 رجب إلى 2 شعبان",
+        "id_mlzm": 41,
+        "name":  "إن الذين قالوا ربنا الله ثم أستقاموا", 
+     "subtitle": "من 12 شعبان إلى 16 شعبان 1447هـ",
         "title": "لأسبوع الثاني"
   }
 ]
