@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "آيات من سورة الواقعة",
+    "name": "وسَارِعُواْ إِلَى مَغْفِرَةٍ مِّن رَّبِّكُمْ",
     "title": "الأسبوع الأول",
-    "subtitle": "من 5 شعبان إلى 9 شعبان 1447هـ",
-    "cover_url":  "https://drive.google.com/uc?export=download&id=1-rREYCyPKpJCDqKpu1hviJgQor9Oafvz",
-    "id_mlzm": 45
+    "subtitle": "من 19 شعبان إلى 23 شعبان 1447هـ",
+    "cover_url":  "https://drive.google.com/uc?export=download&id=1Y96RQtTC_XT4Dhxhro2ychtPgxjm75UK",
+    "id_mlzm": 52
   },
   {
-        "cover_url": "https://drive.google.com/uc?export=download&id=11l8QQNlji45IdS3lu9jDaGNPAVkneZUN",
+        "cover_url": "https://drive.google.com/uc?export=download&id=16cQH4fi0b0722viNI20afpK9KcmomX_m",
         "id": 2,
-        "id_mlzm": 41,
-        "name":  "إن الذين قالوا ربنا الله ثم أستقاموا", 
-     "subtitle": "من 12 شعبان إلى 16 شعبان 1447هـ",
+        "id_mlzm": 0,
+        "name":  "من هدي القران الكريم", 
+     "subtitle": "من 26 شعبان إلى 30 شعبان 1447هـ",
         "title": "لأسبوع الثاني"
   }
 ]
