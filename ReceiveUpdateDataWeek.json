@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "name": "معرفة الله - عظمة الله - الدرس السابع",
+    "name": "معرفة الله الثقة بالله الدرس الأول",
     "title": "الأسبوع الأول",
-    "subtitle": "من 1 رمضان إلى 5 رمضان 1447هـ",
-    "cover_url":  "https://drive.google.com/uc?export=download&id=185DeVFUXiqOW-bwvMV-c00W7UCu3K2iR",
-    "id_mlzm": 15
+    "subtitle":"من 12 محرم إلى 23 محرم 1448هـ. ",
+    "cover_url":  "https://drive.google.com/uc?export=download&id=1vkhX1hte0T2bZyRSqOndloQhz8HqKz9A",
+    "id_mlzm": 9
   },
   {
-        "cover_url": "https://drive.google.com/uc?export=download&id=1kFCBUhObsZPZ8P0ynkE5DDdzGXIrISlQ",
+        "cover_url": "https://drive.google.com/uc?export=download&id=13CymKjlx3EOZ68XhDJ2Lm6UdjaOWJDEw",
         "id": 2,
-        "id_mlzm": 17,
-        "name":  "معرفة الله - وعده ووعيده - الدرس التاسع", 
-     "subtitle": "من 6 رمضان إلى 11 رمضان 1447هـ",
+        "id_mlzm": 10,
+        "name":  "معرفة الله نعم الله الدرس الثاني", 
+     "subtitle": "من 12 محرم إلى 23 محرم 1448هـ.",
         "title": "لأسبوع الثاني"
   }
 ]
